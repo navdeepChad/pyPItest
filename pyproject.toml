@@ -1,0 +1,16 @@
+[project]
+name = "ascpy"
+version = "0.1.0"
+description = "Reusable Python utility library for all my projects"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/YOUR_USERNAME/ascpy"
+Repository = "https://github.com/YOUR_USERNAME/ascpy"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
