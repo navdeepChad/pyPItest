@@ -2,14 +2,14 @@
 name = "ascpy"
 version = "0.1.0"
 description = "Reusable Python utility library for all my projects"
-authors = [{ name = "Your Name", email = "you@example.com" }]
-license = "MIT"
+authors = [{ name = "Backup Squre", email = "backup@example.com" }]
+license = { text = "MIT" }
 readme = "README.md"
 requires-python = ">=3.8"
 
 [project.urls]
-Homepage = "https://github.com/YOUR_USERNAME/ascpy"
-Repository = "https://github.com/YOUR_USERNAME/ascpy"
+Homepage = "https://github.com/navdeepChad/pyPItest"
+Repository = "https://github.com/navdeepChad/pyPItest"
 
 [build-system]
 requires = ["hatchling"]
